@@ -16,4 +16,6 @@ npm run dev
 - data/provinces.ts         — พิกัด lat/lon ของทั้ง 77 จังหวัด
 - lib/weather.ts            — แปลง weather code เป็นภาษาไทย + เกณฑ์ PM2.5 ของไทย (PCD)
 
+## Deploy 
 
+https://thailand-weather.vercel.app/
